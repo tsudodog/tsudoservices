@@ -1,0 +1,8 @@
+com/tsudo/notification/Notification$NotificationBuilder.class
+com/tsudo/notification/NotificationApplication.class
+com/tsudo/notification/NotificationController.class
+com/tsudo/notification/NotificationRepository.class
+com/tsudo/notification/Notification.class
+com/tsudo/notification/rabbitmq/NotificationConsumer.class
+com/tsudo/notification/NotificationConfig.class
+com/tsudo/notification/NotificationService.class

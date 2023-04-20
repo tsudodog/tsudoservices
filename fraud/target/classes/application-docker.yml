@@ -1,0 +1,21 @@
+
+server:
+  port: 8081
+spring:
+  application:
+    name: fraud
+  datasource:
+    password: postgres
+    url: jdbc:postgresql://postgres:5432/fraud
+    username: postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    show-sql: true
+  zipkin:
+    base-url: http://zipkin:9411
+

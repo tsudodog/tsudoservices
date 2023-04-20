@@ -1,0 +1,7 @@
+/home/tsudo/microservice_course/tsudoservices/customer/src/main/java/com/tsudo/customer/Customer.java
+/home/tsudo/microservice_course/tsudoservices/customer/src/main/java/com/tsudo/customer/CustomerConfig.java
+/home/tsudo/microservice_course/tsudoservices/customer/src/main/java/com/tsudo/customer/CustomerController.java
+/home/tsudo/microservice_course/tsudoservices/customer/src/main/java/com/tsudo/customer/CustomerService.java
+/home/tsudo/microservice_course/tsudoservices/customer/src/main/java/com/tsudo/customer/CustomerRepository.java
+/home/tsudo/microservice_course/tsudoservices/customer/src/main/java/com/tsudo/customer/CustomerApplication.java
+/home/tsudo/microservice_course/tsudoservices/customer/src/main/java/com/tsudo/customer/CustomerRegistrationRequest.java

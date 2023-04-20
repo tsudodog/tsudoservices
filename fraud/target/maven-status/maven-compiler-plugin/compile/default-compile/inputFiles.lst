@@ -1,0 +1,5 @@
+/home/tsudo/microservice_course/tsudoservices/fraud/src/main/java/com/tsudo/fraud/FraudCheckHistory.java
+/home/tsudo/microservice_course/tsudoservices/fraud/src/main/java/com/tsudo/fraud/FraudCheckController.java
+/home/tsudo/microservice_course/tsudoservices/fraud/src/main/java/com/tsudo/fraud/FraudCheckHistoryRepository.java
+/home/tsudo/microservice_course/tsudoservices/fraud/src/main/java/com/tsudo/fraud/FraudCheckService.java
+/home/tsudo/microservice_course/tsudoservices/fraud/src/main/java/com/tsudo/fraud/FraudApplication.java

@@ -1,0 +1,4 @@
+com/tsudo/clients/notification/NotificationRequest.class
+com/tsudo/clients/fraud/FraudCheckResponse.class
+com/tsudo/clients/notification/NotificationClient.class
+com/tsudo/clients/fraud/FraudClient.class
