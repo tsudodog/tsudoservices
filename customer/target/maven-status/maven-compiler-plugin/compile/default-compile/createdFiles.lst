@@ -1,8 +1,0 @@
-com/tsudo/customer/CustomerConfig.class
-com/tsudo/customer/Customer$CustomerBuilder.class
-com/tsudo/customer/CustomerService.class
-com/tsudo/customer/CustomerApplication.class
-com/tsudo/customer/CustomerRepository.class
-com/tsudo/customer/CustomerController.class
-com/tsudo/customer/Customer.class
-com/tsudo/customer/CustomerRegistrationRequest.class
