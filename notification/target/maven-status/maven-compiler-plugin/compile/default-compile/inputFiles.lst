@@ -1,7 +1,0 @@
-/Users/Malamute/Documents/github/tsudodog/tsudoservices/notification/src/main/java/com/tsudo/notification/NotificationApplication.java
-/Users/Malamute/Documents/github/tsudodog/tsudoservices/notification/src/main/java/com/tsudo/notification/NotificationConfig.java
-/Users/Malamute/Documents/github/tsudodog/tsudoservices/notification/src/main/java/com/tsudo/notification/NotificationRepository.java
-/Users/Malamute/Documents/github/tsudodog/tsudoservices/notification/src/main/java/com/tsudo/notification/Notification.java
-/Users/Malamute/Documents/github/tsudodog/tsudoservices/notification/src/main/java/com/tsudo/notification/NotificationService.java
-/Users/Malamute/Documents/github/tsudodog/tsudoservices/notification/src/main/java/com/tsudo/notification/rabbitmq/NotificationConsumer.java
-/Users/Malamute/Documents/github/tsudodog/tsudoservices/notification/src/main/java/com/tsudo/notification/NotificationController.java

@@ -1,6 +1,0 @@
-com/tsudo/fraud/FraudCheckHistory.class
-com/tsudo/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
-com/tsudo/fraud/FraudApplication.class
-com/tsudo/fraud/FraudCheckService.class
-com/tsudo/fraud/FraudCheckController.class
-com/tsudo/fraud/FraudCheckHistoryRepository.class
